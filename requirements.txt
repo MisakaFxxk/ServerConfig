@@ -1,0 +1,7 @@
+python_telegram_bot==13.11
+requests
+pymysql
+flask
+psutil
+urllib3
+Image
