@@ -5,3 +5,7 @@ flask
 psutil
 urllib3
 Image
+feedparser
+qbittorrent-api
+bs4
+baidu-aip
